@@ -1,16 +1,16 @@
 ---
-title: MCC Country Selection Indicators for FY17
-created: '2020-11-12T13:53:33.878480'
-modified: '2020-11-12T13:53:33.878487'
+title: MCC Country Selection Indicators for FY19
+created: '2020-11-12T13:53:34.875295'
+modified: '2020-11-12T13:53:34.875302'
 state: active
 type: dataset
 tags:
   - Selection
 groups: []
 csv_url: >-
-  https://inventory.data.gov/dataset/2792ef60-3cf5-4a17-a845-8cbf2d16896d/resource/f90f6205-a56f-4814-97cb-1c8883a247d1/download/tradepolicyfy17-ptm.csv
+  https://inventory.data.gov/dataset/3a285146-d072-45ec-ab41-0512dd84af07/resource/7447000b-bbea-4e08-a7f8-44c49445aeab/download/tradepolicyfy19-ptm.csv
 json_url: ''
 layout: post
 
 ---
-Data used to assess country performance for MCC's selection process in FY 2017.
+Data used to assess country performance for MCC's selection process in FY 2019.
