@@ -1,16 +1,16 @@
 ---
-title: Cumulative Obligations and Disbursements by Program and Sector FY17Q4
-created: '2020-11-12T13:53:30.381835'
-modified: '2020-11-12T13:53:30.381841'
+title: Cumulative Obligations and Disbursements by Program and Sector FY20Q1
+created: '2020-11-12T13:53:30.085014'
+modified: '2020-11-12T13:53:30.085025'
 state: active
 type: dataset
 tags:
   - Foreign Assistance
 groups: []
 csv_url: >-
-  https://inventory.data.gov/dataset/ba8cc6fe-344a-4a13-acda-bef4b2050ad6/resource/4067e317-7410-4598-b55b-dba743e89987/download/financialdata.csv
+  https://inventory.data.gov/dataset/bd84b2f3-2234-47c2-a814-aded48a9d346/resource/1b4eae40-ca69-4246-ab69-484253345818/download/data.csv
 json_url: ''
 layout: post
 
 ---
-These tables offer a summary of cumulative obligations and disbursements by program and sector for all MCC programs, as of FY2017, Quarter 4.
+These tables offer a summary of cumulative obligations and disbursements by program and sector for all MCC programs, as of FY2020, Quarter 1.
